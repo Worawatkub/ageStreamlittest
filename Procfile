@@ -1,1 +1,1 @@
-web: gunicorn app:agestreamlit
+web: gunicorn agestreamlit.py
