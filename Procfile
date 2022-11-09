@@ -1,1 +1,1 @@
-web: gunicorn agestreamlit.py
+web: sh run streamlit agestreamlit.py
